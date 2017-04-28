@@ -1,0 +1,14 @@
+[
+  {
+    "classname": "weapon_*",
+    "action": "remove"
+  },
+  {
+    "classname": "prop_physics*",
+    "action": "freeze"
+  },
+  {
+    "classname": "func_physbox*",
+    "action": "freeze"
+  }
+]
